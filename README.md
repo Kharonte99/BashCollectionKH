@@ -1,3 +1,5 @@
-## SCRIPTS SIMPLES 
+## SCRIPTS EN BASH
 
-Los voy haciendo con el fin de praticar y mejorar y si puedo aportar algo a la comunidad y les sirve de algo ahi los tienen.
+Comparto scripts en el lenguaje de programación Bash con el propósito de practicar y mejorar mis habilidades en este ámbito, 
+tanto para la automatización de tareas como para desarrollar lógica de programación.
+Además, los utilizo para fines tanto de hacking como de administración de sistemas.
